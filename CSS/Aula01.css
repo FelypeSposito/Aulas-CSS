@@ -1,7 +1,11 @@
-h1 {color: rebeccapurple; font-family: Verdana, Geneva, Tahoma, sans-serif;
+h1 {color: rgb(18, 44, 29); font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-p{color: seagreen; font-size: larger;}
+p{color: rgb(17, 37, 26); font-size: larger;}
 
-body {margin-top: 2cm; }
-input{background-color: aquamarine; border-radius: 15%;}
+body {background-color: #D3D3D3;
+    color: #264d35; margin-top: 2cm; }
+
+input{background-color: rgb(138, 160, 147); border-radius: 15%; background-image:;}
+
+fieldset {border-color: #008080; border-width: 10cm; background-color: #008080;}
